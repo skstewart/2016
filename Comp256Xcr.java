@@ -1,7 +1,8 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+Name: Shayna Stewart
+CS 256
+Extra Credit Assignment
+Description: Given two parameters, a_0 and n, find A_n recursively.
  */
 package comp256.xcr;
 
