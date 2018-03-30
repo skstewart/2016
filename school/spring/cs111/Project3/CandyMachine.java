@@ -1,12 +1,9 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-/**
- *
- * @author Shayna
+Name: Shayna Stewart
+CS 111
+Project 3
+Description: Creates a virtual candy machine. Gives action choices to user, and allows input. Only delivers the selected candy 
+when enough money is inserted. Allows coin return.
  */
 import java.util.Scanner;
 public class CandyMachine {
@@ -104,6 +101,7 @@ public class CandyMachine {
                 
                 case 4: {
                     System.out.println("Change owed to you: $" + credit);
+                    
                 }
                 
                 default:
