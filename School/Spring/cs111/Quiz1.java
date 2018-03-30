@@ -9,7 +9,7 @@ Quiz 1
  * @author Shayna
  */
 import java.util.Scanner;
-public class GoldenSun {
+public class Quiz1 {
 
     /**
      * @param args the command line arguments
@@ -73,7 +73,7 @@ public class GoldenSun {
         }
         
         case 3: {
-        
+        System.exit(0);
         break;
         }
         
